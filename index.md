@@ -6,3 +6,11 @@ No longer will you have to deal with the frustrating experience of D&DBeyond, or
 - **Character Creation:** The Tool Bag of Holding allows for comprehensive character creation! Users can create an entirely new character within this program, or manually enter information to allow for easy integration of homebrew classes and items!
 - **Play Mode:**
 - **Combat:**
+
+## Link to source code
+
+(coming soon)
+
+## Link to Documentation
+
+<a href="presentation/index.html">Presentation</a>
