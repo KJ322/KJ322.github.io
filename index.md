@@ -13,4 +13,4 @@ No longer will you have to deal with the frustrating experience of D&DBeyond, or
 
 ## Link to Documentation
 
-<a href="presentation/index.html">Presentation</a>
+<a href="docs/presentation/index.html">Presentation</a>
